@@ -1,0 +1,83 @@
+﻿  RTIAW.cpp
+C:\Users\Owens\source\repos\RTIAW\RTIAW\sphere.h(32,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\sphere.h(33,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(46,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(50,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(85,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(87,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(132,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(147,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(155,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(166,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(174,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(184,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(191,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(198,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\Median.h(205,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\mirror.h(12,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\mirror.h(40,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\mirror.h(41,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\mirror.h(49,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\mirror.h(50,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\mirror.h(51,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\mirror.h(65,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\mirror.h(65,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\mirror.h(66,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\mirror.h(66,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(53,29): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(185,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(186,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(187,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(197,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(207,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(222,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(223,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(224,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(232,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(237,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(238,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(239,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(360,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(361,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(362,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(367,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(368,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(369,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(374,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(375,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(376,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(429,57): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(430,61): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(431,61): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(433,59): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(434,63): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Owens\source\repos\RTIAW\RTIAW\RTIAW.cpp(435,63): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  RTIAW.vcxproj -> C:\Users\Owens\source\repos\RTIAW\x64\Debug\RTIAW.exe
